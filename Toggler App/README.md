@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 
     ```sh
     git clone https://github.com/Sri-Sakthi-CB.git
-    cd themed-app
+    cd 'Toggler App'
     ```
 
 2. **Install dependencies:**

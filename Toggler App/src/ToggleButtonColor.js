@@ -26,7 +26,7 @@ const ToggleButtonColor = () => {
         border: `2px solid ${textColor}`,
       }}
       
-      >White Theme</button>
+      >Toggle Theme</button>
       <section className="content">
       <h1>
         Welcome To Toggler By <br />

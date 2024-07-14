@@ -9,7 +9,7 @@ A simple and intuitive application built with React, featuring both light and da
 
 ## Usage
 
-- **Toggle theme:** Click the "White/Dark Theme" button to switch between light and dark themes.
+- **Toggle theme:** Click the "Theme" button to switch between light and dark themes.
 
 ## ScreenShots
 
@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 
     ```sh
     git clone https://github.com/Sri-Sakthi-CB.git
-    cd themed-app
+    cd 'Toggler App'
     ```
 
 2. **Install dependencies:**

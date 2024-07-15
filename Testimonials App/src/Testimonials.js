@@ -40,7 +40,7 @@ const Testimonials = () => {
         <div className="testimonials-author">
             {testimonials[currentIndex].author}
         </div>
-        <testimonials className="nav">
+        <testimonials className="testimonials-nav">
             <button onClick={handlePrevClick}>Prev</button>
             <button onClick={handleNextClick}>Next</button>
         </testimonials>
